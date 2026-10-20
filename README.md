@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Qbusters** · Team ID `VTU-QFF-HC-0152` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Qbusters)
+[⬆ Back to Top](#qbusters)
 
 </div>
